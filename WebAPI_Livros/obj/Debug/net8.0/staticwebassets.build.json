@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "c5OVnxToelNedmRoKF3VkqRrNZLLcBa+36hvh09GqmY=",
+  "Source": "WebAPI_Livros",
+  "BasePath": "_content/WebAPI_Livros",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
